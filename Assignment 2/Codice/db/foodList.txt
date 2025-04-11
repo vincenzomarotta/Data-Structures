@@ -1,0 +1,6 @@
+1222;Carciofi;550;3;Sempreverde;5.600000
+127906;Mozzarella;1050;2;Di Battipaglia;6.000000
+999999;Banana;2000;1;Chiquita;1.300000
+876433;Carne;3000;2;Carne Montana;7.500000
+765432;Latte;1500;1;Berna;0.800000
+2201;Nutella;2000;1;Ferrero;4.600000

@@ -1,0 +1,7 @@
+lucamar;napoli11;LCMRBRJU7YTG5RE3;Luca;Mirabelli;lucamira@gmail.com;3326587456;Via Ricciardi 88;1200;Toyota AM123;AT6TGHY;
+foody78;arcoblaneo12;LCADRE7YU7TGFRED;Luca;Palmieri;luca_pal@gmail.com;3215478964;Via Palo 12;900;FRESH ASH;POL990;
+mariorossi;123456;MRRSSOLKI8U7Y6TG;Mario;Rossi;mariorossi@gmail.com;3213654987;Via Rossi,23;600;AUR-55;AA000AA;
+laura98;isolaverde98;LRESTPJ8UY6TGFR5;Laura;Esposito;lauraesposito@gmail.com;3312547896;Via Italia, 11;750;ARG99;ABD00A;
+fran88;musica18;FRCBTSPO0LO98HNK;Francesco;Battista;fran_batti88@gmail.com;3365478521;P.za Lorena, 23;1700;TIR-888;ABC00E;
+aleman12;frutta33;ALSMNC09OIU7Y6TR;Alessia;Manco;ale_man12@outlook.it;3324587465;Via Quasimodo, 120;1000;ARB-00-12-A;ASD09;
+franassi;123456;FRNSSAXXXXXXXXXX;Francesco;Assi;franassi@gmail.com;3331234567;Via Italia, 1;1200;TGT-AA-00;ABC00A;

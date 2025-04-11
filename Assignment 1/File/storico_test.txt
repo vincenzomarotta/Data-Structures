@@ -1,0 +1,6 @@
+1 MRTFBR7YHGT65R4E 1 Mattina A Positivo 
+2 TMSRMO7YT5RFREDE 1 Mattina A Positivo 
+3 BGFTRE45TGTR4E3W 1 Pomeriggio D Negativo 
+4 MRTVCN99O0IUY65R 1 Pomeriggio B Negativo 
+5 GRGFNC90B09A024Y 1 Sera C Negativo 
+6 MRAMRA98C02G568J 1 Sera A Negativo 

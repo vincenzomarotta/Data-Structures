@@ -1,0 +1,2 @@
+lucamar;Luca;Mirabelli;Island 3;Island 0;751.00;05/26/21 21:24:46;Carciofi;60;Carne;50;Latte;50;
+lucamar;Luca;Mirabelli;Island 3;Island 0;580.00;05/28/21 10:55:11;Carciofi;50;Mozzarella;50;
