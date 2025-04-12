@@ -12,5 +12,5 @@ I suggest to try both of the project in a Windows environment (as I was asked to
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-## Second Assignments: Island Delivery 
+## Second Assignment: Island Delivery 
 This is the second and final assignment called Island Delivery
