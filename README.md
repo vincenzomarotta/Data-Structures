@@ -18,7 +18,7 @@ This system also has a section where users could check the social security numbe
 This project aimed to strengthen proficiency in using linked list and files in C.\
 It was not asked to create a system for storing credential safely, so it was all stored in files.\
 The outcomes of the tests were assigned randomly.\
-For more implementation details you can refer to the [documentation]("Assignement 1"/Report_VincenzoMarotta_N863005.pdf) in italian, where it's also possible to find a How To Use.
+For more implementation details you can refer to the [documentation](Assignment%201/Report_VincenzoMarotta_N863005.pdf) in italian, where it's also possible to find a How To Use.
 
 ## 🏝️ Second Assignment: I-Eats​
 This is the second and final assignment called Island Delivery
