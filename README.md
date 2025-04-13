@@ -33,6 +33,7 @@ The aim of this project was to strengthen proficiency in graphs and their algori
 For more implementation details you can refer to the [documentation](Assignment%202/Report_Gruppo3.pdf) in italian where it's also possible to find an How To guide.
 It's also possible to find a [scheme](Assignment%202/island_gruppo3.jpg) where are present all the islands and all bridges capacity.
 
+## ​🧑🏻‍💻​ Authors
 This assigment was made with:
 - https://github.com/matthyzza
 - https://github.com/emanuele989
