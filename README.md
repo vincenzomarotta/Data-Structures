@@ -37,3 +37,5 @@ This assigment was made with:
 - https://github.com/matthyzza
 - https://github.com/emanuele989
 
+## 📫​ Support
+For any questions feel free to reach me anytime; my contacts are available in my homepage.
